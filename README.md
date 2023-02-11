@@ -1,7 +1,7 @@
 <img src="TrollBoard-modified.png" alt="Logo" width="70" height="70">
 
 # TrollBoard
-Icon changer for iOS 15.0 - 16.1.2
+Icon changer for iOS 15.0 - 16.1.2. Sorry for the confusing name. **IT DOESN'T HAVE REVERTABLE ICONS!!!**
 
 # How to use
 1. Launch the app so TrollBoard can make the folder for you.
